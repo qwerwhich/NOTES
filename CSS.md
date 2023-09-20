@@ -362,8 +362,8 @@
 <a name="q878H"></a>
 ## 文件和目录
 **前端工程 文件和目录规范，以小兔鲜网页示例：**
-<a name="Q1kdw"></a>
-## ![]0L{(A`~Y5`NY8R9KJFK}$J.png](https://cdn.nlark.com/yuque/0/2023/png/25687038/1692088870847-67bc344a-7dc6-477e-aa73-878bd2732cf1.png#averageHue=%23f2f1f1&clientId=u77f2384d-d56c-4&from=drop&id=u461d7f08&originHeight=463&originWidth=1228&originalType=binary&ratio=1.100000023841858&rotation=0&showTitle=false&size=267817&status=done&style=none&taskId=u8b72da09-03e0-4590-a80d-e03dc6df329&title=)
+![image](https://github.com/qwerwhich/NOTES/assets/91894664/c013a607-ece3-4fca-9869-bfa18cf828bf)
+
 **xtx是小兔鲜的缩写，pc代表工作端**<br />**base.css 里面存放一些基础公共样式，例如使每个盒子的初始**<br />**内边距 外边距都为0，去除超链接的下划线，解决浮动问题等等；**
 
 **边写边测试**<br />**先调位置，盒子模型  最后调文字样式**
